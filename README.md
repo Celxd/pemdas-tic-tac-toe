@@ -95,4 +95,4 @@ Screenshots of the running GUI is stored under `screenshots/`
 
 ## GitHub & Video Links
 - **GitHub Repository:** https://github.com/Celxd/pemdas-tic-tac-toe
-- **YouTube Demonstration Video:**
+- **YouTube Demonstration Video:** https://youtu.be/NDZo2U0aC94
